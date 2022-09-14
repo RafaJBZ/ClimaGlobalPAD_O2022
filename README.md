@@ -22,33 +22,32 @@ Juárez Badillo Chávez, Rafael
 
 ##### Temperaturas Globales
 
-• Lo primero que hay en este archivo es la fecha, establecida el primero de cada mes desde 1750 hasta
+Lo primero que hay en este archivo es la fecha, establecida el primero de cada mes desde 1750 hasta
 la fecha, cada una de estas fechas tiene el promedio de temperatura terrestre, la temperatura mínima, la
 máxima y la temperatura oceánica registrada en ese mes, junto con la incertidumbre de cada una de ellas
 
 
 ##### Temperaturas globales por:
 
-• Son 4 archivos:
+- Son 4 archivos:
 
-    •  Por Estado
+    -  Por Estado
 
-        • Con variables de estado y país
+        - Con variables de estado y país
 
-    • Por País
+    - Por País
 
-        • Con variable de país
+        - Con variable de país
 
-    • Por Ciudad
+    - Por Ciudad
 
-        • Con variables de ciudad, país, latitud y longitud
+        - Con variables de ciudad, país, latitud y longitud
 
-    • Por Ciudad Mayor
+    - Por Ciudad Mayor
 
-        • Con las mismas variables que ciudad mayor
+        - Con las mismas variables que ciudad mayor
 
-    • Cada uno de estos posee la fecha, la temperatura promedio de la tierra, la incertidumbre, y las variables
-propias de cada set
+    - Cada uno de estos posee la fecha, la temperatura promedio de la tierra, la incertidumbre, y las variables propias de cada set
 
 
 ### PREGUNTAS DE INVESTIGACIÓN
@@ -56,15 +55,15 @@ propias de cada set
 
 ##### Fase Exploratoria
 
-• ¿Existe un aumento progresivo en la temperatura?
+- ¿Existe un aumento progresivo en la temperatura?
 
-• ¿Influye el lugar del mundo en los cambios?
+- ¿Influye el lugar del mundo en los cambios?
 
-• ¿Cuáles son las condiciones progresivas de los lugares?
+- ¿Cuáles son las condiciones progresivas de los lugares?
 
 
 ##### Fase Predictiva
 
-• ¿Cuál va a ser la temperatura el siguiente año?
+- ¿Cuál va a ser la temperatura el siguiente año?
 
-• ¿En que momento se vuelve insostenible?
+- ¿En que momento se vuelve insostenible?
